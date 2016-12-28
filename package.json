@@ -1,0 +1,18 @@
+{
+  "name": "beerlocker",
+  "version": "1.0.0",
+  "description": "An application to store and track beer, and control access to user's beer lockers",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "mongoose": "^4.7.5",
+    "oauth2orize": "^1.6.0",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0",
+    "passport-http-bearer": "^1.0.1"
+  }
+}
